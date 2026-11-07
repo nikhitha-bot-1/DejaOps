@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+hindsight-client
+python-dotenv
